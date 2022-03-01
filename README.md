@@ -2,7 +2,7 @@
 # Criando um Menu do Jeito Certo
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- - [Vista por cima](#vista-por-cima) -->
 <!--  - [Foto da tela](#foto-da-tela) -->
