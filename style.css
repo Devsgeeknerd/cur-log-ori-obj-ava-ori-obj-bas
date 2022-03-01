@@ -7,3 +7,9 @@
     margin: 0px;
     padding: 0px;
 }
+
+.menu a {
+    color: #ffffff;
+    padding: 10px;
+    display: block;
+}
